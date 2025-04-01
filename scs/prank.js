@@ -41,7 +41,7 @@ adams({ nomCom: "hack", categorie: "Fun", reaction: "💀" }, async (dest, zk, c
         *⚠️ WARNING ⚠️*  
         _Your device is under remote surveillance. Do NOT attempt to reboot._
 
-        _💀 Script Executed by: Ibrahim Adams 💀_`;
+        _💀 Script Executed by: 𝙱.𝙼.𝙱-𝚇𝙼𝙳 💀_`;
 
         // Send the prank message
         try {
