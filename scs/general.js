@@ -52,13 +52,13 @@ adams({ nomCom: "owner", categorie: "General", reaction: "💯" }, async (dest, 
   }
 });
 
-adams({ nomCom: "dev", categorie: "General", reaction: "💥" }, async (dest, zk, commandeOptions) => {
+adams({ nomCom: "dev", categorie: "General", reaction: "✨" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "bmb1", numero: "255772341432" },
-      { nom: "᚛bmb2᚜", numero: "255711782669" },
-      { nom: "bmb3", numero: "255741752020" },
+      { nom: "bmb1", numero: "255767862457" },
+      { nom: "᚛bmb2᚜", numero: "255767862457" },
+      { nom: "bmb3", numero: "255767862457" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -96,7 +96,8 @@ else {
 adams({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING B.M.B, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029Vb2eknR59PwL1OK4wR24] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@ibrahimaitech] \n\n\n𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING BMW-MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  repondre("THANK YOU FOR CHOOSING B.M.B, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/JpIXcc3AndB3d9pdK2Cg1I] \n\n ☉GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/bmb200/B.M.B-XMD] \n\n\n𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝙱.𝙼.𝙱-𝚇𝙼𝙳") 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING B.M.B-XMD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
+          
