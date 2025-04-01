@@ -84,17 +84,6 @@ CONTACT DEVELOPER ON WHATSAPP
 
 
 
-<table>
-    <td><a href="https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi?"><img src="https://files.catbox.moe/iab57p.png" width="180"</td>
-    <td><a href="[https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z](https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z)"><img src="https://files.catbox.moe/a1krzj.png" width="180"</td>
-  </tr>
-</table>
-
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+GOOG+BY+𝑀𝑌+𝙱.𝙼.𝙱-𝚇𝙼𝙳+𓅓)](https://git.io/typing-svg)
 
