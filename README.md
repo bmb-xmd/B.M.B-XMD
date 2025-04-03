@@ -11,10 +11,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙱.𝙼.𝙱+𝚃𝙴𝙲𝙷+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝙱.𝙼.𝙱+𝚃𝙴𝙲𝙷;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝙱.𝙼.𝙱+𝚃𝙴𝙲𝙷;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐞𝐫𝐬𝐢𝐨𝐧+💥;2025+-+2026.)](https://git.io/typing-svg)
 
 
-
-  </h1> 
-<p align="center">l introduce <b>𝙱.𝙼.𝙱-𝚃𝙴𝙲𝙷</b>, a powerful simple WhatsApp bot </p>
-</p>
   <p align="center">
 <a href="https://github.com/bmb200?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/bmb200?label=Followers&style=social"></a>
 <a href="https://github.com/bmb200/B.M.B-XMD/stargazers"><img title="STARS" src="https://img.shields.io/github/stars/bmb200/B.M.B-XMD?&style=social"></a>
