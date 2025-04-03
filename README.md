@@ -51,7 +51,7 @@
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/message/255772341432" target="_blank">
+<a href="https://wa.me/255767862457" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/𝙱.𝙼.𝙱-𝚇𝙼𝙳 contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
