@@ -100,15 +100,15 @@ adams({ nomCom: "menu-list", categorie: "General" }, async (dest, zk, commandeOp
         isForwarded: true,
            forwardedNewsletterMessageInfo: {
            newsletterJid: '120363345407274799@newsletter',
-           newsletterName: "NJABULO JB",
+           newsletterName: "𝙱.𝙼.𝙱-𝚇𝙼𝙳",
            serverMessageId: 143,
            },
            forwardingScore: 999, // Score to indicate it has been forwarded
              externalAdReply: {
              title: "𝙱.𝙼.𝙱-𝚇𝙼𝙳",
              body: "𝙱.𝙼.𝙱-𝚇𝙼𝙳",
-             thumbnailUrl: 'https://files.catbox.moe/cs7xfr.jpg', // Add thumbnail URL if required 
-             sourceUrl: 'https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T', // Add source URL if necessary
+             thumbnailUrl: 'https://files.catbox.moe/0y7gwq.jpg', // Add thumbnail URL if required 
+             sourceUrl: 'https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z', // Add source URL if necessary
              mediaType: 1,
              renderLargerThumbnail: true
                 }
@@ -118,7 +118,7 @@ adams({ nomCom: "menu-list", categorie: "General" }, async (dest, zk, commandeOp
         // Send audio with caption
         await zk.sendMessage(dest, { 
             audio: { 
-                url: "https://files.catbox.moe/bewdug.mp3" // Replace with your audio URL
+                url: "https://files.catbox.moe/0y7gwq.jpg" // Replace with your audio URL
             }, 
             mimetype: 'audio/mp4', 
             ptt: false, // Set to true if you want it as a voice note
@@ -126,7 +126,7 @@ adams({ nomCom: "menu-list", categorie: "General" }, async (dest, zk, commandeOp
             contextInfo: {
                 externalAdReply: {
                     body: "B.M.B-TECH",
-                    thumbnailUrl: "https://files.catbox.moe/votefa.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/0y7gwq.jpg",
                     sourceUrl: 'https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z',
                     rendersmallThumbnail: false
                 }
