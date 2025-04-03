@@ -65,27 +65,6 @@ CONTACT DEVELOPER ON WHATSAPP
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ 𝙱.𝙼.𝙱-𝚇𝙼𝙳  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-*gallery*
-
-<table>
-  <tr>
-    <td>𝑲𝒊𝒏𝒈 𝙱.𝙼.𝙱-𝚇𝙼𝙳👑</td></td>
-    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
-  </tr>
-  <tr>
-    <td><a href="https://wa.me/255772341432?"><img src="https://files.catbox.moe/4fqgva.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z"><img src="https://files.catbox.moe/xwpu18.png" width="180"</td>
-  </tr>
-</table>
-
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+GOOG+BY+𝑀𝑌+𝙱.𝙼.𝙱-𝚇𝙼𝙳+𓅓)](https://git.io/typing-svg)
 
  
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi)
