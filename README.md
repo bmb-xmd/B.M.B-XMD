@@ -63,8 +63,3 @@ CONTACT DEVELOPER ON WHATSAPP
  
 <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ 𝙱.𝙼.𝙱-𝚇𝙼𝙳  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-
- 
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi)
