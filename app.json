@@ -1,14 +1,13 @@
 
-
-
-{
-  "name":"𝙱.𝙼.𝙱-𝚇𝙼𝙳",
-  "description":"Best whatsapp bot developed by 𝙱.𝙼.𝙱-𝚇𝙼𝙳",
-  "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/2xfpzo.jpg",
-  "repository":"https://github.com/ekitale/maths-project",
-  "succes_url":"/",
-  "stack":"heroku-24",
+  "name": "𝙱.𝙼.𝙱-𝚇𝙼𝙳",
+  "description": "Javascript WhatsApp bot made by 𝙱.𝙼.𝙱-𝚇𝙼𝙳 ",
+  "keywords": ["𝙱.𝙼.𝙱-𝚇𝙼𝙳"],
+  
+  
+  "logo": "https://files.catbox.moe/srobdn.jpg",
+  "repository": "https://github.com/bmb-tz/B.M.B-TECH",
+  "succes_url": "/",
+  
   "env":{
     "PREFIX":
     {
@@ -105,7 +104,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/2xfpzo.jpg",
+      "value":"https://files.catbox.moe/5mevfx.jpg",
       "required":false
        
      },
@@ -169,30 +168,10 @@
   }
   },
 
-        
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ],
-
-  "formation": {
-                "worker": {
-                        "quantity": 1,
-                        "size": "basic"
-                }
-        },
-
-  "addons":[
-    {
-      "plan":"heroku-postgresql"
-    }
-  ]
-}
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+	  
