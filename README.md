@@ -5,16 +5,12 @@
   <a href="https://www.facebook.com/share/16F9sbGaXC/"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/bmb200/B.M.B-XMD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="https://x.com/bmb_xmd?t=dXGMsWLaBasPJ3PZykz8LA&s=09 "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙱.𝙼.𝙱+tech+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝙱.𝙼.𝙱-𝚇𝙼𝙳+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝙱.𝙼.𝙱-𝚇𝙼𝙳+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐢𝐫𝐬𝐢𝐨𝐧+💥;2025+-+2026.&heart;++;Self-taught+Back-Created+By,;𝙱.𝙼.𝙱-𝚇𝙼𝙳+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://files.catbox.moe/roflc0.jpg">
- <img alt="B.M.B-XMD" height="300" src="https://files.catbox.moe/yyuqy7.jpg">
+ <a href="https://files.catbox.moe/1zmzua.jpg">
+ <img alt="B.M.B-XMD" height="300" src="https://files.catbox.moe/1zmzua.jpg">
  
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙱.𝙼.𝙱+𝚃𝙴𝙲𝙷+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝙱.𝙼.𝙱+𝚃𝙴𝙲𝙷;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝙱.𝙼.𝙱+𝚃𝙴𝙲𝙷;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐞𝐫𝐬𝐢𝐨𝐧+💥;2025+-+2026.)](https://git.io/typing-svg)
 
 
-
-  </h1> 
-<p align="center">l introduce <b>𝙱.𝙼.𝙱-𝚃𝙴𝙲𝙷</b>, a powerful simple WhatsApp bot </p>
-</p>
   <p align="center">
 <a href="https://github.com/bmb200?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/bmb200?label=Followers&style=social"></a>
 <a href="https://github.com/bmb200/B.M.B-XMD/stargazers"><img title="STARS" src="https://img.shields.io/github/stars/bmb200/B.M.B-XMD?&style=social"></a>
@@ -55,7 +51,7 @@
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/message/255772341432" target="_blank">
+<a href="https://wa.me/255767862457" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/𝙱.𝙼.𝙱-𝚇𝙼𝙳 contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
@@ -63,29 +59,3 @@ CONTACT DEVELOPER ON WHATSAPP
  
 <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ 𝙱.𝙼.𝙱-𝚇𝙼𝙳  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-*gallery*
-
-<table>
-  <tr>
-    <td>𝑲𝒊𝒏𝒈 𝙱.𝙼.𝙱-𝚇𝙼𝙳👑</td></td>
-    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
-  </tr>
-  <tr>
-    <td><a href="https://wa.me/255772341432?"><img src="https://files.catbox.moe/4fqgva.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z"><img src="https://files.catbox.moe/xwpu18.png" width="180"</td>
-  </tr>
-</table>
-
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+GOOG+BY+𝑀𝑌+𝙱.𝙼.𝙱-𝚇𝙼𝙳+𓅓)](https://git.io/typing-svg)
-
- 
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi)
